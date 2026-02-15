@@ -1214,4 +1214,3 @@ st.markdown("""
     <p>Hecho con ❤️ para la comunidad Bahá'í</p>
 </div>
 """, unsafe_allow_html=True)
-
